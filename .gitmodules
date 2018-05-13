@@ -1,0 +1,6 @@
+[submodule "components/MPUdriver"]
+	path = components/MPUdriver
+	url = https://github.com/natanaeljr/esp32-MPU-driver
+[submodule "components/I2Cbus"]
+	path = components/I2Cbus
+	url = https://github.com/natanaeljr/esp32-I2Cbus.git
