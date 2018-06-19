@@ -34,5 +34,5 @@ GPIO13      |Buzzer +       |use with low duty cycle
 Running sensors in SPI mode is possible, but would require wiring 2 more pins: CSB and nCS.
 
 I2C slave addresses of the peripherals are as follows:
-MPU9250 - 0x68
-BMP280 - 0x76
+* MPU9250 - 0x68
+* BMP280 - 0x76
